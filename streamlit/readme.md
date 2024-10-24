@@ -28,7 +28,7 @@ touch .streamlit/secrets.toml
 ```
 `secrets.toml` 파일은 재헌에게 문의.
 
-5. data/JEJU_with_embeddings_final.csv 파일 생성
+5. data/JEJU_with_embeddings_final.csv 파일 생성 <br>
 `JEJU_with_embeddings_final.csv` 파일은 재헌에게 문의.
 
 6. streamlit 실행
